@@ -8,7 +8,7 @@ import java.awt.Point;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MazeSolver {
+public class Main {
     public static void main(String[] args) {
         // Initial maze size
         int rows = 21;
